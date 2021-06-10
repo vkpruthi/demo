@@ -9,5 +9,11 @@
   "Comment": {
     "body": "string",
     "post": "Post"
-  }
+  },
+    "devlopers":{
+    "firstName": "string",
+    "lastName":"string",
+      "username":"string",
+    "createdAt":"date"
+  }  
 }
